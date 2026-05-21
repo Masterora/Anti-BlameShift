@@ -1,0 +1,13 @@
+node_modules/
+dist/
+apps/*/dist/
+data/
+apps/api/data/
+.DS_Store
+npm-debug.log*
+.env
+.env.*
+!.env.example
+apps/*/.env
+apps/*/.env.*
+!apps/*/.env.example
